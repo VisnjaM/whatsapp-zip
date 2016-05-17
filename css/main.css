@@ -22,6 +22,8 @@ img{
 	background-color: #E3E3E3;
 	padding:5px;
 	margin-bottom: 5px;
+	height: 75px;
+	border:1px solid #CBC8CB;
 
 }
 p{
@@ -45,5 +47,54 @@ hr{
 	background-color: grey;
 	border:0;
 		
+}
+.chat span{
+	float: right;
+}
+.chat1 span{
+	float: right;
+}
+.chat{
+	background-color:#D4EEA4;
+    border-radius:5px;
+    float: right;
+    padding: 5px;
+    margin-top:5px;
+    height: 40px;
+}
+.chat1{
+	background-color:#D4EEA4;
+    border-radius:5px;
+    float: right;
+    padding: 5px;
+    margin-top:5px;
+    height: 40px;
+    margin-top: 200px;
+}
+p .morado{
+	color:#630C53;
+}
+.verde{
+	color:#326346;
+}
+.naranja{
+	color:#C8651D;
+}
+.celeste{
+	color:#ACE1EE;
+}
+.mensajes{
+	margin-bottom:110px;
+	margin-top:10px;
+}
+.mensajes1{
+	margin-bottom: 10px;
+	width: 100%;
+}
+.mj{
+	border:1px solid #CBC8CB;
+	border-radius:5px;
+	width: 100%;
+	padding: 3px 30px 3px 5px;
 }
 /*arreglo*/
